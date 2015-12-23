@@ -31,5 +31,8 @@ frames. Blue "TX" LED on ESP-12 module indicates transmission.
 Notes
 -----
 
-So far I haven't been able to successfuly exploit my N3DS, but seems like a
-problem with HB launcher itself. Whatever.
+Finally I've been able to exploit my N3DS. Remember to put some HB first, since
+Homebrew Launcher fails when there is none installed. (homebrew starter kit
+works ok)
+
+To exit runinng Homebrew use L+R+Down+B combo.
